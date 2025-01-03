@@ -15,8 +15,13 @@ This quiz game is written in Python, and no additional libraries or dependencies
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/quiz-game-python.git
-2. cd quiz-game-python
-3. python quiz_game.py
+2. Navigate to the project folder:
+   ```bash
+   cd quiz-game-python
+3. Run the Python script:
+   ```bash
+   python quiz_game.py
+
 
 ## Game Flow
 - When the game starts, you are asked if you want to play. If you type anything other than "yes", the game will exit.
